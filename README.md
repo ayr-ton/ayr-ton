@@ -21,7 +21,7 @@
 <h3> 🤝📫 How to reach me </h3>
 
 <p align="center">
-<a href="https://ayr-ton.net/"><img alt="Website" src="https://img.shields.io/badge/Website-ayr--ton.net-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://ayr-ton.link/linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ayrton%20Araújo-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:ayrton@riseup.net"><img alt="Email" src="https://img.shields.io/badge/Email-ayrton@riseup.net-blue?style=flat-square&logo=gmail"></a>
+<a href="https://ayr-ton.net/"><img alt="Website" src="https://img.shields.io/badge/Website-ayr--ton.net-blue?style=flat-square&logo=google-chrome"></a>
 </p>
