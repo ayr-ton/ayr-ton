@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software architectures.
-- 💼 &nbsp; Working as a Head of Engineering at Clever Credit Inc. 
+- 💼 &nbsp; Working as a Software Engineer and Infrastructure Automation Advisor. 
 - 🌱 &nbsp; Practicing agile methodologies like Extreme Programing, Scrum and Kanban. DevSecOps evangelist and learning DesignOps.
 - 🎯 &nbsp; I love good metrics and observability culture.
 - ⚡ &nbsp; Fun fact: Practice improvisation acting skills
