@@ -1,4 +1,4 @@
-<h2>I'm Ayrton Araújo (a.k.a. Ayrton Freeman).</h2>
+<h2>I'm Ayrton Araújo Santana (a.k.a. Ayrton Freeman).</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
