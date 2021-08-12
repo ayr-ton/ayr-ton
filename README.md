@@ -1,4 +1,4 @@
-<h2>I'm Ayrton Araújo Santana (a.k.a. Ayrton Freeman).</h2>
+<h2>I'm Ayrton Araújo Santana (a.k.a. DevAllTheThingsOpster).</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -10,9 +10,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💬 &nbsp; Ask me about: Python, Ruby, Django, Flask, Rails, JS, React.JS, Gatsby, Docker, Ansible, Terraform, Packer, Kubernetes, Nomad
+- 💬 &nbsp; Ask me about: Python, FastAPI, Django, Flask, JS, React.JS, Gatsby, Docker, Ansible, Terraform, Packer, Kubernetes and CI/CD for all these things.
 - 🌱 &nbsp; Learning Golang :-)
-- ☁️ &nbsp; Very connected to the [Cloud Native Computing Foundation](https://www.cncf.io/) stack.
+- ☁️ &nbsp; Very tied to the [Cloud Native Computing Foundation](https://www.cncf.io/) stack.
 
 <br/>
 
