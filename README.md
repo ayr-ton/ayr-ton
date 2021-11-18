@@ -1,4 +1,4 @@
-<h2>I'm Ayrton Araújo Santana (a.k.a. DevAllTheThingsOpster).</h2>
+<h2>I'm Ayrton Araújo Santana.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
