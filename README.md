@@ -1,9 +1,11 @@
-<h2>I'm Ayrton Araújo Santana.</h2>
+<h2>I'm Ayrton Santana.</h2>
+
+I like to write Pythonic code.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software architectures.
-- 💼 &nbsp; Working as a Lead Software Engineer and Principal Infrastructure Automation Advisor. 
+- 💼 &nbsp; Working as a Cloud Native Engineer Lead. 
 - 🌱 &nbsp; Practicing agile methodologies like Extreme Programing, Scrum and Kanban. DevSecOps evangelist and learning DesignOps.
 - 🎯 &nbsp; I love good metrics and observability culture.
 - ⚡ &nbsp; Fun fact: Practice improvisation acting skills
