@@ -27,4 +27,5 @@ I like to write Pythonic code.
 <p align="center">
 <a href="https://ayr-ton.link/linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ayrton%20Araújo-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:ayrton@riseup.net"><img alt="Email" src="https://img.shields.io/badge/Email-ayrton@riseup.net-blue?style=flat-square&logo=gmail"></a>
+<a rel="me" href="https://mastodon.sdf.org/@ayrtonfreeman"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-DevAllTheThingsOpster-blue?style=flat-square&logo=mastodon"></a>
 </p>
