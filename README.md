@@ -8,7 +8,7 @@ I like to write Pythonic code.
 - 💼 &nbsp; Working as a Cloud Native Engineer Lead. 
 - 🌱 &nbsp; Practicing agile methodologies like Extreme Programing, Scrum and Kanban. DevSecOps evangelist and learning DesignOps.
 - 🎯 &nbsp; I love good metrics and observability culture.
-- ⚡ &nbsp; Fun fact: Practice improvisation acting skills
+- ⚡ &nbsp; Fun fact: I do practice impro and love to learn about comedy and dramaturgy 
 
 <h3>🛠 Tech Stack</h3>
 
