@@ -5,7 +5,7 @@ I like to write Pythonic code.
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software architectures.
-- 💼 &nbsp; Working as a Cloud Native Engineer Lead. 
+- 💼 &nbsp; Working as a Data Engineering Lead. 
 - 🌱 &nbsp; Practicing agile methodologies like Extreme Programing, Scrum and Kanban. DevSecOps evangelist and learning DesignOps.
 - 🎯 &nbsp; I love good metrics and observability culture.
 - ⚡ &nbsp; Fun fact: I do practice impro and love to learn about comedy and dramaturgy 
