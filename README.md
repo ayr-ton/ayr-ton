@@ -20,8 +20,6 @@ I like to write Pythonic code.
 
 <br/>
 
-[![Ayrton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayr-ton&show_icons=true)](https://github.com/ayr-ton)
-
 <h3> 🤝📫 How to reach me </h3>
 
 <p align="center">
